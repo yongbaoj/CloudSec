@@ -3,15 +3,15 @@
       {
         "id": 1,
         "title": "Securing Cloud Workloads",
-        "details": "Our experts help you <ul><li>Rearchitect Cloud workloads securely</li><li>Assessing Cloud workload Security</li> <li>Mitigate Cloud Workload security gaps</li>  <li>Continously monitor Cloud Workload Security </li> </ul> Making sure your cloud workload secure by default",
+        "details": "Our experts help you <ul><li>  Cloud workloads securely</li><li>Assessing Cloud workload Security</li> <li>Mitigate Cloud Workload security gaps</li>  <li>Continuously monitor Cloud Workload Security </li> </ul> Making sure your cloud workload secure by default",
         "image": "/CloudSec1.jpg",
         "points": {
           "headwhy": "Why Cloud Workload Security Matters?" ,
-          "why": "Public Clouds are inheritently risky because of its open, shared and outsourcing nature. <br> Cloud workloads increasingly utilize more PaaS and SaaS services. While it improve agility and reduce administative overhead, it introduces additional security challenges. <br> Some Cloud workloads are regulated to be compliant with certain regulations. ",
+          "why": "Public Clouds are inherently risky because of its open, shared and outsourcing nature. <br> Cloud workloads increasingly utilize more PaaS and SaaS services. While it improve agility and reduce administrative overhead, it introduces additional security challenges. <br> Some Cloud workloads are regulated to be compliant with certain regulations. ",
           "headwho": "Who should Secure Cloud Workloads?" ,
           "who": "You. Everyone. Anyone who is concerned about the privacy, safety, and security of your cloud workloads.",
           "headwhen": "When To engage us?" ,
-          "when": "Ideally, we want to be engaged at the early stage of your application design/rearchitecture as it can save significant resources on risk mitigation during a later phase.<br><br> Cloud services are constantly evolving, we have helped many customers assess their Cloud workloads and it's also important to perform assessment on existing workloads.<br>In the absence of new development, cloud workload assessment should be revisited as part of support and maintenance activities.",
+          "when": "Ideally, we want to be engaged at the early stage of your application design/re-architect as it can save significant resources on risk mitigation during a later phase.<br><br> Cloud services are constantly evolving, we have helped many customers assess their Cloud workloads and it's also important to perform assessment on existing workloads.<br>In the absence of new development, cloud workload assessment should be revisited as part of support and maintenance activities.",
           "headhow": "What Methodologies and Tools to Use?" ,
           "how": "In ACloud, we have assessed over 100+ public cloud services and over 1000+ APIs so we know what we need to look for and will assess your cloud workloads based on our cloud service assessment benchmark and also your user cases and requirements."
         }
@@ -23,11 +23,11 @@
         "image": "/CloudSec2.jpg",
         "points": {
           "headwhy": "Why Cloud Service Security ?" ,
-          "why": "Public Clouds are inheritently risky because of its open, shared and outsourcing nature. <br> Cloud is constantly evovling with new cloud services and new services features and APIs released all the time. Customers like you are evolving at the same pace with more and more new cloud services and features adopted.<br> Understanding those cloud serivces and features you consumed is vital.",
+          "why": "Public Clouds are inherently risky because of its open, shared and outsourcing nature. <br> Cloud is constantly evolving with new cloud services and new services features and APIs released all the time. Customers like you are evolving at the same pace with more and more new cloud services and features adopted.<br> Understanding those cloud services and features you consumed is vital.",
           "headwho": "Who should secure cloud services?" ,
           "who": "Everyone with product workloads on public clouds.",
-          "headwhen": "When To enage us?" ,
-          "when": "Any time, but the best time is before a new cloud service is adopted by your organzation so we can assist you evaulate those services and build security guardrails before consumption.",
+          "headwhen": "When To engage us?" ,
+          "when": "Any time, but the best time is before a new cloud service is adopted by your organization so we can assist you evaluate those services and build security guardrails before consumption.",
           "headhow": "What Methodologies and Tools to Use?" ,
           "how": "In ACloud, we have assessed over 100+ public cloud services and over 1000+ APIs so it's likely we have already assessed cloud services you're considering. <br> Our team has been working on public clouds since their creation with tremendous experience and understand cloud services from the inside out, so we'are sure we can help you secure those services "
         }
@@ -35,15 +35,15 @@
       {
         "id": 3,
         "title": "Securing Cloud Tenant",
-        "details": "Our experts help you <ul><li>Build security foundation for any new Cloud tenant</li><li>Integrate cloud tenants with your enterprise security solutions</li> <li>Define guardrail for application onbarding</li>  <li>Build security controls to secure cloud tenants</li> </ul> Making sure you can have a solid and secure cloud tenants",
+        "details": "Our experts help you <ul><li>Build security foundation for any new Cloud tenant</li><li>Integrate cloud tenants with your enterprise security solutions</li> <li>Define guardrail for application onboarding</li>  <li>Build security controls to secure cloud tenants</li> </ul> Making sure you can have a solid and secure cloud tenants",
         "image": "/CloudSec3.jpg",
         "points": {
           "headwhy": "Why Cloud Tenant Security ?" ,
-          "why": "Public Clouds are inheritently risky because of its open, shared and outsourcing nature. <br> Public Cloud needs to be enabled and integrate with your organization before it can be used properly.<br> Common security controls need to be enabled properly on tenant that will be inherited by all workloads.",
+          "why": "Public Clouds are inherently risky because of its open, shared and outsourcing nature. <br> Public Cloud needs to be enabled and integrate with your organization before it can be used properly.<br> Common security controls need to be enabled properly on tenant that will be inherited by all workloads.",
           "headwho": "Who should Secure Cloud Tenant?" ,
           "who": "Everyone who wants to consume any cloud services from any vendors.",
           "headwhen": "When To engage us?" ,
-          "when": "Any time, but the best time is before your create Cloud tenants with any vendor so we can make sure it's secure by default from the very begining",
+          "when": "Any time, but the best time is before your create Cloud tenants with any vendor so we can make sure it's secure by default from the very beginnings",
           "headhow": "What Methodologies and Tools to Use?" ,
           "how": "In ACloud, we have assessed over 100+ public cloud services and over 1000+ APIs, assisted many organizations on securing their cloud tenants from various vendors so it's likely we already have the playbook for you. <br> Our team has been working on public clouds since their creation with tremendous experience and understand cloud services from the inside out, so we'are sure we can help you secure your cloud tenants"
         }
