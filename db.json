@@ -5,7 +5,7 @@
         "title": "Securing Cloud Workloads",
         "details": "Our experts help you <ul><li> Design Cloud workloads securely</li><li>Assess Cloud workload Security</li> <li>Mitigate Cloud Workload security gaps</li>  <li>Monitor Cloud Workload Security continuously </li> </ul> Making sure your cloud workload secure by default.",
         "image": "/CloudSec1.jpg",
-        "image-m": "/CloudSec1-m.jpg",        
+        "image_m": "/CloudSec1_m.jpg",        
         "points": {
           "headwhy": "Why Cloud Workload Security Matters?" ,
           "why": "Public Clouds are inherently risky because of its open, shared and outsourcing nature. <br><br> Cloud workloads increasingly utilize more PaaS and SaaS services. While it improve agility and reduce administrative overhead, it introduces additional security challenges. <br><br> Some Cloud workloads are regulated to be compliant with certain regulations. ",
@@ -22,7 +22,7 @@
         "title": "Securing Cloud Services",
         "details": "Our experts help you <ul><li>Choose right cloud services </li><li>Assess candidate cloud services to make sure they fit for purpose</li> <li>Define cloud services security guardrail</li>  <li>Build security controls to ensure cloud services security</li> </ul> Making sure you can consume cloud services securely and efficiently.",
         "image": "/CloudSec2.jpg",
-        "image-m": "/CloudSec2-m.jpg",                
+        "image_m": "/CloudSec2_m.jpg",                
         "points": {
           "headwhy": "Why Cloud Service Security ?" ,
           "why": "Public Clouds are inherently risky because of its open, shared and outsourcing nature. <br><br> Cloud is constantly evolving with new cloud services, new service features and APIs released all the time. Customers like you are evolving at a similar pace with more and more new cloud services and features adopted.<br><br> Understanding those cloud services and features you consumed is vital.",
@@ -39,7 +39,7 @@
         "title": "Securing Cloud Tenant",
         "details": "Our experts help you <ul><li>Build Cloud tenant security foundation</li><li>Integrate cloud tenants with your enterprise security solutions</li> <li>Define guardrail for application onboarding</li>  <li>Build security controls to ensure cloud tenants security</li> </ul> Making sure you can have a robust and secure cloud tenants.",
         "image": "/CloudSec3.jpg",
-        "image-m": "/CloudSec3-m.jpg",                
+        "image_m": "/CloudSec3_m.jpg",                
         "points": {
           "headwhy": "Why Cloud Tenant Security ?" ,
           "why": "Public Clouds are inherently risky because of its open, shared and outsourcing nature. <br><br> Public Cloud needs to be enabled and integrate with your organization before it can be used properly.<br><br> Common security controls need to be enabled properly on tenant that will be inherited by all workloads.",
